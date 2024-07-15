@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gauravv077
 - 👀 I’m interested in web and software development 
-- 🌱 I have completed my B-tech in Information Technology engineering 
+- 🌱 I have completed my B-Tech in Information Technology engineering 
 - 💞️ I’m looking to collaborate on real world project 
 
 
